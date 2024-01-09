@@ -1,3 +1,22 @@
-# PR Template
+# Bug
 
-Edited!
+## Problem
+
+
+## Impact
+
+
+## Solution
+
+## Testing Plan
+
+
+## Media
+
+### Before
+
+
+### After 
+
+
+
